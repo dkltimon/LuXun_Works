@@ -1,2 +1,2 @@
 # LuXun_Works
- Text collections of LuXun(鲁迅)
+A collection of 158 texts of LuXun(鲁迅)

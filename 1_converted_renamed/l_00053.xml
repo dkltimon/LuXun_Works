@@ -1,0 +1,114 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>死火</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="797"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-sanwenshi_00053</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">死火</title>
+          <title level="m">野草</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1925</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-sanwenshi</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>死火</head>
+</front>
+<body>
+<div>
+<p>我梦见自己在冰山间奔驰。</p>
+<p>这是高大的冰山，上接冰天，天上冻云弥漫，片片如鱼鳞模样。山麓有冰树林，枝叶都如松杉。一切冰冷，一切青白。</p>
+<p>但我忽然坠在冰谷中。</p>
+<p>上下四旁无不冰冷，青白。而一切青白冰上，却有红影无数，纠结如珊瑚网。我俯看脚下，有火焰在。</p>
+<p>这是死火。有炎炎的形，但毫不摇动，全体冰结，像珊瑚枝；尖端还有凝固的黑烟，疑这才从火宅中出，所以枯焦。这样，映在冰的四壁，而且互相反映，化为无量数影，使这冰谷，成红珊瑚色。</p>
+<p>哈哈！</p>
+<p>当我幼小的时候，本就爱看快舰激起的浪花，洪炉喷出的烈焰。不但爱看，还想看清。可惜他们都息息变幻，永无定形。虽然凝视又凝视，总不留下怎样一定的迹象。</p>
+<p>死的火焰，现在先得到了你了！</p>
+<p>我拾起死火，正要细看，那冷气已使我的指头焦灼；但是，我还熬着，将他塞入衣袋中间。冰谷四面，登时完全青白。我一面思索着走出冰谷的法子。</p>
+<p>我的身上喷出一缕黑烟，上升如铁线蛇。冰谷四面，又登时满有红焰流动，如大火聚，将我包围。我低头一看，死火已经燃烧，烧穿了我的衣裳，流在冰地上了。</p>
+<p>“唉，朋友！你用了你的温热，将我惊醒了。”他说。</p>
+<p>我连忙和他招呼，问他名姓。</p>
+<p>“我原先被人遗弃在冰谷中，”他答非所问地说，“遗弃我的早已灭亡，消尽了。我也被冰冻冻得要死。倘使你不给我温热，使我重行烧起，我不久就须灭亡。”</p>
+<p>“你的醒来，使我欢喜。我正在想着走出冰谷的方法；我愿意携带你去，使你永不冰结，永得燃烧。”</p>
+<p>“唉唉！那么，我将烧完！”</p>
+<p>“你的烧完，使我惋惜。我便将你留下，仍在这里罢。”</p>
+<p>“唉唉！那么，我将冻灭了！”</p>
+<p>“那么，怎么办呢？”</p>
+<p>“但你自己，又怎么办呢？”他反而问。</p>
+<p>“我说过了：我要出这冰谷……。”</p>
+<p>“那我就不如烧完！”</p>
+<p>他忽而跃起，如红彗星，并我都出冰谷口外。有大石车突然驰来，我终于碾死在车轮底下，但我还来得及看见那车就坠入冰谷中。</p>
+<p>“哈哈！你们是再也遇不着死火了！”我得意地笑着说，仿佛就愿意这样似的。</p>
+</div>
+</body>
+<back>
+<div>
+<ab>一九二五年四月二十三日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

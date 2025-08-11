@@ -1,0 +1,110 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>希望</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="824"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-sanwenshi_00049</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">希望</title>
+          <title level="m">野草</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1925</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-sanwenshi</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>希望</head>
+</front>
+<body>
+<div>
+<p>我的心分外地寂寞。</p>
+<p>然而我的心很平安：没有爱憎，没有哀乐，也没有颜色和声音。</p>
+<p>我大概老了。我的头发已经苍白，不是很明白的事么？我的手颤抖着，不是很明白的事么？那么，我的魂灵的手一定也颤抖着，头发也一定苍白了。</p>
+<p>然而这是许多年前的事了。</p>
+<p>这以前，我的心也曾充满过血腥的歌声：血和铁，火焰和毒，恢复和报仇。而忽而这些都空虚了，但有时故意地填以没奈何的自欺的希望。希望，希望，用这希望的盾，抗拒那空虚中的暗夜的袭来，虽然盾后面也依然是空虚中的暗夜。然而就是如此，陆续地耗尽了我的青春。</p>
+<p>我早先岂不知我的青春已经逝去了？但以为身外的青春固在：星，月光，僵坠的胡蝶，暗中的花，猫头鹰的不祥之言，杜鹃的啼血，笑的渺茫，爱的翔舞……。虽然是悲凉漂渺的青春罢，然而究竟是青春。</p>
+<p>然而现在何以如此寂寞？难道连身外的青春也都逝去，世上的青年也多衰老了么？</p>
+<p>我只得由我来肉薄这空虚中的暗夜了。我放下了希望之盾，我听到Pet ǒfi　Sándor（1834—1849）的“希望”之歌：</p>
+<p>希望是甚么？是娼妓：</p>
+<p>她对谁都蛊惑，将一切都献给；</p>
+<p>待你牺牲了极多的宝贝——</p>
+<p>你的青春——她就弃掉你。</p>
+<p>这伟大的抒情诗人，匈牙利的爱国者，为了祖国而死在可萨克兵的矛尖上，已经七十五年了。悲哉死也，然而更可悲的是他的诗至今没有死。</p>
+<p>但是，可惨的人生！桀骜英勇如Pet ǒfi，也终于对了暗夜止步，回顾着茫茫的东方了。他说：</p>
+<p>绝望之为虚妄，正与希望相同。</p>
+<p>倘使我还得偷生在不明不暗的这“虚妄”中，我就还要寻求那逝去的悲凉漂渺的青春，但不妨在我的身外。因为身外的青春倘一消灭，我身中的迟暮也即凋零了。</p>
+<p>然而现在没有星和月光，没有僵坠的胡蝶以至笑的渺茫，爱的翔舞。然而青年们很平安。</p>
+<p>我只得由我来肉薄这空虚中的暗夜了，纵使寻不到身外的青春，也总得自己来一掷我身中的迟暮。但暗夜又在那里呢？现在没有星，没有月光以至笑的渺茫和爱的翔舞；青年们很平安，而我的面前又竟至于并且没有真的暗夜。</p>
+<p>绝望之为虚妄，正与希望相同！</p>
+</div>
+</body>
+<back>
+<div>
+<ab>一九二五年一月一日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

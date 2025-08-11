@@ -1,0 +1,99 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>咬文嚼字（三）</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="361"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-zawen_00082</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">咬文嚼字（三）</title>
+          <title level="m">华盖集</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1925</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-zawen</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>咬文嚼字</head>
+</front>
+<body>
+<div>
+</div>
+<div>
+<head>三</head>
+<p>自从世界上产生了“须知学校犹家庭”的名论之后，颇使我觉得惊奇，想考查这家庭的组织。后来，幸而在《国立北京女子师范大学校长杨荫榆对于暴烈学生之感言》中，发见了“与此曹子勃谿相向”这一句话，才算得到一点头绪：校长和学生的关系是“犹”之“妇姑”。于是据此推断，以为教员都是杂凑在杨府上的西宾，将这结论在《语丝》上发表。“可惜”！昨天偶然在《晨报》上拜读“该校哲教系教员兼代主任汪懋祖以彼之意见书投寄本报”的话，这才知道我又错了，原来都是弟兄，而且现正“相煎益急”，像曹操的儿子阿丕和阿植似的。</p>
+<p>但是，尚希原谅，我于引用的原文上都不加圈了。只因为我不想圈，并非文章坏。</p>
+<p>据考据家说，这曹子建的《七步诗》是假的。但也没有什么大相干，姑且利用它来活剥一首，替豆萁伸冤：</p>
+<p>煮豆燃豆萁，萁在釜下泣——</p>
+<p>我烬你熟了，正好办教席！</p>
+</div>
+</body>
+<back>
+<div>
+<ab>六月五日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

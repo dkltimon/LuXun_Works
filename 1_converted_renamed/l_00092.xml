@@ -1,0 +1,100 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>我观北大</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="870"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-zawen_00092</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">我观北大</title>
+          <title level="m">华盖集</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1925</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-zawen</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>我观北大</head>
+</front>
+<body>
+<div>
+<p>因为北大学生会的紧急征发，我于是总得对于本校的二十七周年纪念来说几句话。</p>
+<p>据一位教授的名论，则“教一两点钟的讲师”是不配与闻校事的，而我正是教一点钟的讲师。但这些名论，只好请恕我置之不理；——如其不恕，那么，也就算了，人那里顾得这些事。</p>
+<p>我向来也不专以北大教员自居，因为另外还与几个学校有关系。然而不知怎的，——也许是含有神妙的用意的罢，今年忽而颇有些人指我为北大派。我虽然不知道北大可真有特别的派，但也就以此自居了。北大派么？就是北大派！怎么样呢？</p>
+<p>但是，有些流言家幸勿误会我的意思，以为谣我怎样，我便怎样的。我的办法也并不一律。譬如前次的游行，报上谣我被打落了两个门牙，我可决不肯具呈警厅，吁请补派军警，来将我的门牙从新打落。我之照着谣言做去，是以专检自己所愿意者为限的。</p>
+<p>我觉得北大也并不坏。如果真有所谓派，那么，被派进这派里去，也还是也就算了。理由在下面：</p>
+<p>既然是二十七周年，则本校的萌芽，自然是发于前清的，但我并民国初年的情形也不知道。惟据近七八年的事实看来，第一，北大是常为新的，改进的运动的先锋，要使中国向着好的，往上的道路走。虽然很中了许多暗箭，背了许多谣言；教授和学生也都逐年地有些改换了，而那向上的精神还是始终一贯，不见得弛懈。自然，偶尔也免不了有些很想勒转马头的，可是这也无伤大体，“万众一心”，原不过是书本子上的冠冕话。</p>
+<p>第二，北大是常与黑暗势力抗战的，即使只有自己。自从章士钊提了“整顿学风”〕的招牌来“作之师”，并且分送金款以来，北大却还是给他一个依照彭允彝的待遇。现在章士钊虽然还伏在暗地里做总长，本相却已显露了；而北大的校格也就愈明白。那时固然也曾显出一角灰色，但其无伤大体，也和第一条所说相同。</p>
+<p>我不是公论家，有上帝一般决算功过的能力。仅据我所感得的说，则北大究竟还是活的，而且还在生长的。凡活的而且在生长者，总有着希望的前途。</p>
+<p>今天所想到的就是这一点。但如果北大到二十八周年而仍不为章士钊者流所谋害，又要出纪念刊，我却要预先声明：不来多话了。一则，命题作文，实在苦不过；二则，说起来大约还是这些话。</p>
+</div>
+</body>
+<back>
+<div>
+<ab>十二月十三日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

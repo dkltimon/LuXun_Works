@@ -1,0 +1,96 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>可恶罪</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="289"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-zawen_00146</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">可恶罪</title>
+          <title level="m">而已集</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1927</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-zawen</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>可恶罪</head>
+</front>
+<body>
+<div>
+<p>这是一种新的“世故”。</p>
+<p>我以为法律上的许多罪名，都是花言巧语，只消以一语包括之，曰：可恶罪。</p>
+<p>譬如，有人觉得一个人可恶，要给他吃点苦罢，就有这样的法子。倘在广州而又是“清党”之前，则可以暗暗地宣传他是无政府主义者。那么，共产青年自然会说他“反革命”，有罪。若在“清党”之后呢，要说他是CP或CY，没有证据，则可以指为“亲共派”。那么，清党委员会自然会说他“反革命”，有罪。再不得已，则只好寻些别的事由，诉诸法律了。但这比较地麻烦。</p>
+<p>我先前总以为人是有罪，所以枪毙或坐监的。现在才知道其中的许多，是先因为被人认为“可恶”，这才终于犯了罪。</p>
+<p>许多罪人，应该称为“可恶的人”。</p>
+</div>
+</body>
+<back>
+<div>
+<ab>九，十四。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

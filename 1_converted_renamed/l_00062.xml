@@ -1,0 +1,94 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>腊叶</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="416"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-sanwenshi_00062</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">腊叶</title>
+          <title level="m">野草</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1926</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-sanwenshi</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>腊叶</head>
+</front>
+<body>
+<div>
+<p>灯下看《雁门集》，忽然翻出一片压干的枫叶来。</p>
+<p>这使我记起去年的深秋。繁霜夜降，木叶多半凋零，庭前的一株小小的枫树也变成红色了。我曾绕树徘徊，细看叶片的颜色，当他青葱的时候是从没有这么注意的。他也并非全树通红，最多的是浅绛，有几片则在绯红地上，还带着几团浓绿。一片独有一点蛀孔，镶着乌黑的花边，在红，黄和绿的斑驳中，明眸似的向人凝视。我自念：这是病叶呵！便将他摘了下来，夹在刚才买到的《雁门集》里。大概是愿使这将坠的被蚀而斑斓的颜色，暂得保存，不即与群叶一同飘散罢。</p>
+<p>但今夜他却黄蜡似的躺在我的眼前，那眸子也不复似去年一般灼灼。假使再过几年，旧时的颜色在我记忆中消去，怕连我也不知道他何以夹在书里面的原因了。将坠的病叶的斑斓，似乎也只能在极短时中相对，更何况是葱郁的呢。看看窗外，很能耐寒的树木也早经秃尽了；枫树更何消说得。当深秋时，想来也许有和这去年的模样相似的病叶的罢，但可惜我今年竟没有赏玩秋树的余闲。</p>
+</div>
+</body>
+<back>
+<div>
+<ab>一九二五年十二月二十六日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

@@ -1,0 +1,97 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>写在《劳动问题》之前</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="510"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-zawen_00133</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">写在《劳动问题》之前</title>
+          <title level="m">而已集</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1927</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-zawen</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>写在《劳动问题》之前</head>
+</front>
+<body>
+<div>
+<p>还记得去年夏天住在北京的时候，遇见张我权君，听到他说过这样意思的话：“中国人似乎都忘记了台湾了，谁也不大提起。”他是一个台湾的青年。</p>
+<p>我当时就像受了创痛似的，有点苦楚；但口上却道：“不。那倒不至于的。只因为本国太破烂，内忧外患，非常之多，自顾不暇了，所以只能将台湾这些事情暂且放下。……”</p>
+<p>但正在困苦中的台湾的青年，却并不将中国的事情暂且放下。他们常希望中国革命的成功，赞助中国的改革，总想尽些力，于中国的现在和将来有所裨益，即使是自己还在做学生。</p>
+<p>张秀哲君是我在广州才遇见的。我们谈了几回，知道他已经译成一部《劳动问题》给中国，还希望我做一点简短的序文。我是不善于作序，也不赞成作序的；况且对于劳动问题，一无所知，尤其没有开口的资格。我所能负责说出来的，不过是张君于中日两国的文字，俱极精通，译文定必十分可靠这一点罢了。</p>
+<p>但我这回却很愿意写几句话在这一部译本之前，只要我能够。我虽然不知道劳动问题，但译者在游学中尚且为民众尽力的努力与诚意，我是觉得的。</p>
+<p>我只能以这几句话表出我个人的感激。但我相信，这努力与诚意，读者也一定都会觉得的。这实在比无论什么序文都有力。</p>
+</div>
+</body>
+<back>
+<div>
+<ab>一九二七年四月十一日，鲁迅识于广州中山大学。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

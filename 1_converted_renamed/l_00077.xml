@@ -1,0 +1,98 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>导师</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="782"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-zawen_00077</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">导师</title>
+          <title level="m">华盖集</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1925</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-zawen</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>导师</head>
+</front>
+<body>
+<div>
+<p>近来很通行说青年；开口青年，闭口也是青年。但青年又何能一概而论？有醒着的，有睡着的，有昏着的，有躺着的，有玩着的，此外还多。但是，自然也有要前进的。</p>
+<p>要前进的青年们大抵想寻求一个导师。然而我敢说：他们将永远寻不到。寻不到倒是运气；自知的谢不敏，自许的果真识路么？凡自以为识路者，总过了“而立”之年，灰色可掬了，老态可掬了，圆稳而已，自己却误以为识路。假如真识路，自己就早进向他的目标，何至于还在做导师。说佛法的和尚，卖仙药的道士，将来都与白骨是“一丘之貉”，人们现在却向他听生西的大法，求上升的真传，岂不可笑！</p>
+<p>但是我并非敢将这些人一切抹杀；和他们随便谈谈，是可以的。说话的也不过能说话，弄笔的也不过能弄笔；别人如果希望他打拳，则是自己错。他如果能打拳，早已打拳了，但那时，别人大概又要希望他翻筋斗。</p>
+<p>有些青年似乎也觉悟了，我记得《京报副刊》征求青年必读书时，曾有一位发过牢骚，终于说：只有自己可靠！我现在还想斗胆转一句，虽然有些杀风景，就是：自己也未必可靠的。</p>
+<p>我们都不大有记性。这也无怪，人生苦痛的事太多了，尤其是在中国。记性好的，大概都被厚重的苦痛压死了；只有记性坏的，适者生存，还能欣然活着。但我们究竟还有一点记忆，回想起来，怎样的“今是昨非”呵，怎样的“口是心非”呵，怎样的“今日之我与昨日之我战”呵。我们还没有正在饿得要死时于无人处见别人的饭，正在穷得要死时于无人处见别人的钱，正在性欲旺盛时遇见异性，而且很美的。我想，大话不宜讲得太早，否则，倘有记性，将来想到时会脸红。</p>
+<p>或者还是知道自己之不甚可靠者，倒较为可靠罢。</p>
+<p>青年又何须寻那挂着金字招牌的导师呢？不如寻朋友，联合起来，同向着似乎可以生存的方向走。你们所多的是生力，遇见深林，可以辟成平地的，遇见旷野，可以栽种树木的，遇见沙漠，可以开掘井泉的。问什么荆棘塞途的老路，寻什么乌烟瘴气的鸟导师！</p>
+</div>
+</body>
+<back>
+<div>
+<ab>五月十一日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

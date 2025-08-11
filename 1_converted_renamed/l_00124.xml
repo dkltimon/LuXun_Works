@@ -1,0 +1,99 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>厦门通信（二）</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="1024"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-zawen_00124</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">厦门通信（二）</title>
+          <title level="m">华盖集续编</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1926</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-zawen</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>厦门通信（二）</head>
+</front>
+<body>
+<div>
+<p>小峰兄：</p>
+<p>《语丝》百一和百二期，今天一同收到了。许多信件一同收到，在这里是常有的事，大约每星期有两回。我看了这两期的《语丝》特别喜欢，恐怕是因为他们已经超出了一百期之故罢。在中国，几个人组织的刊物要出到一百期，实在是不容易的。</p>
+<p>我虽然在这里，也常想投稿给《语丝》，但是一句也写不出，连“野草”也没有一茎半叶。现在只是编讲义。为什么呢？这是你一定了然的：为吃饭。吃了饭为什么呢？倘照这样下去，就是为了编讲义。吃饭是不高尚的事，我倒并不这样想。然而编了讲义来吃饭，吃了饭来编讲义，可也觉得未免近于无聊。别的学者们教授们又作别论，从我们平常人看来，教书和写东西是势不两立的，或者死心塌地地教书，或者发狂变死地写东西，一个人走不了方向不同的两条路。</p>
+<p>忽然记起一件事来了，还是夏天罢，《现代评论》上仿佛曾有正人君子之流说过：因为骂人的小报流行，正经的文章没有人看，也不能印了。我很佩服这些学者们的大才。不知道你可能替我调查一下，他们有多少正经文章的稿子“藏于家”，给我开一个目录？但如果是讲义，或者什么民法八万七千六百五十四条之类，那就不必开，我不要看。</p>
+<p>今天又接到漱园兄的信，说北京已经结冰了。这里却还只穿一件夹衣，怕冷就晚上加一件棉背心。宋玉先生的什么“皇天平分四时兮窃独悲此廪秋，白露既下百草兮奄离披此梧楸”等类妙文，拿到这里来就完全是“无病呻吟”。白露不知可曾“下”了百草，梧楸却并不离披，景象大概还同夏末相仿。我的住所的门前有一株不认识的植物，开着秋葵似的黄花。我到时就开着花的了，不知道他是什么时候开起的；现在还开着；还有未开的蓓蕾，正不知道他要到什么时候才肯开完。“古已有之”，“于今为烈”，我近来很有些怕敢看他了。还有鸡冠花，很细碎，和江浙的有些不同，也红红黄黄地永是这样一盆一盆站着。</p>
+<p>我本来不大喜欢下地狱，因为不但是满眼只有刀山剑树，看得太单调，苦痛也怕很难当。现在可又有些怕上天堂了。四时皆春，一年到头请你看桃花，你想够多么乏味？即使那桃花有车轮般大，也只能在初上去的时候，暂时吃惊，决不会每天做一首“桃之夭夭”的。</p>
+<p>然而荷叶却早枯了；小草也有点萎黄。这些现象，我先前总以为是所谓“严霜”之故，于是有时候对于那“廪秋”不免口出怨言，加以攻击。然而这里却没有霜，也没有雪，凡萎黄的都是“寿终正寝”，怪不得别个。呜呼，牢骚材料既被减少，则又有何话之可说哉！</p>
+<p>现在是连无从发牢骚的牢骚，也都发完了。再谈罢。从此要动手编讲义。</p>
+</div>
+</body>
+<back>
+<div>
+<ab>鲁迅。十一月七日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

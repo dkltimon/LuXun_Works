@@ -1,0 +1,98 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>辞“大义”</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="725"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-zawen_00138</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">辞“大义”</title>
+          <title level="m">而已集</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1927</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-zawen</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>辞“大义”</head>
+</front>
+<body>
+<div>
+<p>我自从去年得罪了正人君子们的“孤桐先生”，弄得六面碰壁，只好逃出北京以后，默默无语，一年有零。以为正人君子们忘记了这个“学棍”了罢，——哈哈，并没有。</p>
+<p>印度有一个泰戈尔。这泰戈尔到过震旦来，改名竺震旦。因为这竺震旦做过一本《新月集》，所以这震旦就有了一个新月社，——中间我不大明白了——现在又有一个叫作新月书店的。这新月书店要出版的有一本《闲话》，这本《闲话》的广告里有下面这几句话：</p>
+<p>“……鲁迅先生（语丝派首领）所仗的大义，他的战略，读过《华盖集》的人，想必已经认识了。但是现代派的义旗，和它的主将——西滢先生的战略，我们还没有明了。……” “派”呀，“首领”呀，这种谥法实在有些可怕。不远就又会有人来诮骂。甲道：看哪！鲁迅居然称为首领了。天下有这种首领的么？乙道：他就专爱虚荣。人家称他首领，他就满脸高兴。我亲眼看见的。</p>
+<p>但这是我领教惯的教训了，并不为奇。这回所觉得新鲜而惶恐的，是忽而将宝贵的“大义”硬塞在我手里，给我竖起大旗来，叫我和“现代派”的“主将”去对垒。我早已说过：公理和正义，都被正人君子夺去了，所以我已经一无所有。大义么，我连它是圆柱形的呢还是椭圆形的都不知道，叫我怎么“仗”？</p>
+<p>“主将”呢，自然以有“义旗”为体面罢。不过我没有这么冠冕。既不成“派”，也没有做“首领”，更没有“仗”过“大义”。更没有用什么“战略”，因为我未见广告以前，竟没有知道西滢先生是“现代派”的“主将”，——我总当他是一个喽罗儿。</p>
+<p>我对于我自己，所知道的是这样的。我想，“孤桐先生”尚在，“现代派”该也未必忘了曾有人称我为“学匪”，“学棍”，“刀笔吏”的，而今忽假“鲁迅先生”以“大义”者，但为广告起见而已。</p>
+<p>呜呼，鲁迅鲁迅，多少广告，假汝之名以行！</p>
+</div>
+</body>
+<back>
+<div>
+<ab>九月三日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

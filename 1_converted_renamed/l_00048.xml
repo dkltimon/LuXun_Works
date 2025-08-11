@@ -1,0 +1,107 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>复仇(其二)</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="649"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-sanwenshi_00048</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">复仇(其二)</title>
+          <title level="m">野草</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1924</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-sanwenshi</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>复仇（其二）</head>
+</front>
+<body>
+<div>
+<p>因为他自以为神之子，以色列的王，所以去钉十字架。</p>
+<p>兵丁们给他穿上紫袍，戴上荆冠，庆贺他；又拿一根苇子打他的头，吐他，屈膝拜他；戏弄完了，就给他脱了紫袍，仍穿他自己的衣服。</p>
+<p>看哪，他们打他的头，吐他，拜他……</p>
+<p>他不肯喝那用没药调和的酒，要分明地玩味以色列人怎样对付他们的神之子，而且较永久地悲悯他们的前途，然而仇恨他们的现在。</p>
+<p>四面都是敌意，可悲悯的，可咒诅的。</p>
+<p>丁丁地响，钉尖从掌心穿透，他们要钉杀他们的神之子了，可悯的人们呵，使他痛得柔和。丁丁地响，钉尖从脚背穿透，钉碎了一块骨，痛楚也透到心髓中，然而他们自己钉杀着他们的神之子了，可咒诅的人们呵，这使他痛得舒服。</p>
+<p>十字架竖起来了；他悬在虚空中。</p>
+<p>他没有喝那用没药调和的酒，要分明地玩味以色列人怎样对付他们的神之子，而且较永久地悲悯他们的前途，然而仇恨他们的现在。</p>
+<p>路人都辱骂他，祭司长和文士也戏弄他，和他同钉的两个强盗也讥诮他。</p>
+<p>看哪，和他同钉的……</p>
+<p>四面都是敌意，可悲悯的，可咒诅的。</p>
+<p>他在手足的痛楚中，玩味着可悯的人们的钉杀神之子的悲哀和可咒诅的人们要钉杀神之子，而神之子就要被钉杀了的欢喜。突然间，碎骨的大痛楚透到心髓了，他即沉酣于大欢喜和大悲悯中。</p>
+<p>他腹部波动了，悲悯和咒诅的痛楚的波。</p>
+<p>遍地都黑暗了。</p>
+<p>“以罗伊，以罗伊，拉马撒巴各大尼？！”（翻出来，就是：我的上帝，你为甚么离弃我？！）上帝离弃了他，他终于还是一个“人之子”；然而以色列人连“人之子”都钉杀了。</p>
+<p>钉杀了“人之子”的人们的身上，比钉杀了“神之子”的尤其血污，血腥。</p>
+</div>
+</body>
+<back>
+<div>
+<ab>一九二四年十二月二十日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

@@ -1,0 +1,100 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>立论</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="323"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-sanwenshi_00058</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">立论</title>
+          <title level="m">野草</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1925</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-sanwenshi</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>立论</head>
+</front>
+<body>
+<div>
+<p>我梦见自己正在小学校的讲堂上预备作文，向老师请教立论的方法。</p>
+<p>“难！”老师从眼镜圈外斜射出眼光来，看着我，说。“我告诉你一件事——</p>
+<p>“一家人家生了一个男孩，合家高兴透顶了。满月的时候，抱出来给客人看，——大概自然是想得一点好兆头。</p>
+<p>“一个说：‘这孩子将来要发财的。’他于是得到一番感谢。</p>
+<p>“一个说：‘这孩子将来要做官的。’他于是收回几句恭维。</p>
+<p>“一个说：‘这孩子将来是要死的。’他于是得到一顿大家合力的痛打。</p>
+<p>“说要死的必然，说富贵的许谎。但说谎的得好报，说必然的遭打。你……”</p>
+<p>“我愿意既不谎人，也不遭打。那么，老师，我得怎么说呢？”</p>
+<p>“那么，你得说：‘啊呀！这孩子呵！您瞧！多么……。阿唷！哈哈！Hehe！ he，hehehehe！’”</p>
+</div>
+</body>
+<back>
+<div>
+<ab>一九二五年七月八日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

@@ -1,0 +1,107 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>这样的战士</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="529"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-sanwenshi_00060</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">这样的战士</title>
+          <title level="m">野草</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1925</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-sanwenshi</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>这样的战士</head>
+</front>
+<body>
+<div>
+<p>要有这样的一种战士——</p>
+<p>已不是蒙昧如非洲土人而背着雪亮的毛瑟枪的；也并不疲惫如中国绿营兵而却佩着盒子炮。他毫无乞灵于牛皮和废铁的甲胄；他只有自己，但拿着蛮人所用的，脱手一掷的投枪。</p>
+<p>他走进无物之阵，所遇见的都对他一式点头。他知道这点头就是敌人的武器，是杀人不见血的武器，许多战士都在此灭亡，正如炮弹一般，使猛士无所用其力。</p>
+<p>那些头上有各种旗帜，绣出各样好名称：慈善家，学者，文士，长者，青年，雅人，君子……。头下有各样外套，绣出各式好花样：学问，道德，国粹，民意，逻辑，公义，东方文明……。</p>
+<p>但他举起了投枪。</p>
+<p>他们都同声立了誓来讲说，他们的心都在胸膛的中央，和别的偏心的人类两样。他们都在胸前放着护心镜，就为自己也深信心在胸膛中央的事作证。</p>
+<p>但他举起了投枪。</p>
+<p>他微笑，偏侧一掷，却正中了他们的心窝。</p>
+<p>一切都颓然倒地；——然而只有一件外套，其中无物。无物之物已经脱走，得了胜利，因为他这时成了戕害慈善家等类的罪人。</p>
+<p>但他举起了投枪。</p>
+<p>他在无物之阵中大踏步走，再见一式的点头，各种的旗帜，各样的外套……。</p>
+<p>但他举起了投枪。</p>
+<p>他终于在无物之阵中老衰，寿终。他终于不是战士，但无物之物则是胜者。</p>
+<p>在这样的境地里，谁也不闻战叫：太平。</p>
+<p>太平……。</p>
+<p>但他举起了投枪！</p>
+</div>
+</body>
+<back>
+<div>
+<ab>一九二五年十二月十四日。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

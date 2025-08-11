@@ -1,0 +1,115 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>拟豫言</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="868"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-zawen_00158</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">拟豫言</title>
+          <title level="m">而已集</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1928</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-zawen</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>拟豫言</head>
+</front>
+<body>
+<div>
+<p>——一九二九年出现的琐事</p>
+<p>有公民某甲上书，请每县各设大学一所，添设监狱两所。被斥。</p>
+<p>有公民某乙上书，请将共产主义者之产业作为公产，女眷作为公妻，以惩一儆百。半年不批。某乙忿而反革命，被好友告发，逃入租界。</p>
+<p>有大批名人学者及文艺家，从外洋回国，于外洋一切政俗学术文艺，皆已比本国者更为深通，受有学位。但其尤为高超者未入学校。</p>
+<p>科学，文艺，军事，经济的连合战线告成。</p>
+<p>正月初一，上海有许多新的期刊出版，本子最长大者，为——</p>
+<p>文艺又复兴。文艺真正老复兴。宇宙。其大无外。至高无上。太太阳。光明之极。白热以上。新新生命。新新新生命。同情。正义。义旗。刹那。飞狮。地震。阿呀。真真美善。……等等。</p>
+<p>同日，美国富豪们联名电贺北京检煤渣老婆子等，称为“同志”，无从投递，次日退回。</p>
+<p>正月初三，哲学与小说同时灭亡。</p>
+<p>有提倡“一我主义”者，几被查禁。后来查得议论并不新异，着无庸议，听其自然。</p>
+<p>有公民某丙著论，谓当“以党治国”，即被批评家们痛驳，谓“久已如此，而还要多说，实属不明大势，昏愦胡涂”。</p>
+<p>谣传有男女青年四万一千九百二十六人失踪。</p>
+<p>蒙古亲近赤俄，公决革出五族，以侨华白俄补缺，仍为“五族共和”，各界提灯庆祝。</p>
+<p>《小说月报》出“列入世界文学两周年纪念”号，定购全年者，各送优待券一张，购书照定价八五折。</p>
+<p>《古今史疑大全》出版，有名人学者往来信札函件批语颂辞共二千五百余封，编者自传二百五十余叶，广告登在《艺术界》，谓所费邮票，即已不赀，其价值可想。</p>
+<p>美国开演《玉堂春》影片，白璧德教授评为决非卢梭所及。</p>
+<p>有中国的法斯德挑同情一担，访郭沫若，见郭穷极，失望而去。</p>
+<p>有在朝者数人下野；有在野者多人下坑。</p>
+<p>绑票公司股票涨至三倍半。</p>
+<p>女界恐乳大或有被割之险，仍旧束胸，家长多被罚洋五十元，国帑更裕。</p>
+<p>有博士讲“经济学精义”，只用两句，云：“铜板换角子，角子换大洋。”全世界敬服。</p>
+<p>有革命文学家将马克思学说推翻，这只用一句，云：“什么马克斯牛克斯。”全世界敬服，犹太人大惭。</p>
+<p>新诗“雇人哭丧假哼哼体”流行。</p>
+<p>茶店，浴堂，麻花摊，皆寄售《现代评论》。</p>
+</div>
+</body>
+<back>
+<div>
+<ab>赤贼完全消灭，安那其主义将于四百九十八年后实行。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

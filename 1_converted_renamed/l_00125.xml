@@ -1,0 +1,91 @@
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>所谓“思想界先驱者”鲁迅启事</title>
+        <author>
+          <name>Lu Xun</name>
+        </author>
+        <respStmt>
+          <resp>Selection and preparation of texts and metadata.</resp>
+          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+        </respStmt>
+        <respStmt>
+          <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
+          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.2">.</edition>
+      </editionStmt>
+      <extent>
+        <measure commodity="tokens" quantity="448"/>
+      </extent>
+      <publicationStmt>
+        <publisher></publisher>
+        <idno>essay-zawen_00125</idno>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
+        </availability>
+        <date when="2025"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">所谓“思想界先驱者”鲁迅启事</title>
+          <title level="m">华盖集续编</title>
+          <author>
+            <name>Lu Xun</name>
+            <idno type="wikidata">Q23114</idno>
+            <idno type="gnd">118574647</idno>
+          </author>
+          <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
+          <date>1926</date>
+        </bibl>        
+      </sourceDesc>
+    </fileDesc>
+    
+    <profileDesc>
+      <langUsage>
+        <language ident="zho">Chinese</language>
+      </langUsage>
+      <textClass>
+
+        <keywords>
+          <term>essay-zawen</term>
+        </keywords>
+        
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term>prose</term>
+        </keywords>
+        
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term key="17.97" ref="http://uri.gbv.de/terminology/bk/17.97">Texte eines einzelnen Autors</term>
+          <term key="18.90" ref="http://uri.gbv.de/terminology/bk/18.90">Chinesische Sprache und Literatur</term>
+        </keywords>
+        
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
+          
+        </keywords>
+        
+      </textClass>
+      
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+<head>所谓“思想界先驱者”鲁迅启事</head>
+</front>
+<body>
+<div>
+</div>
+</body>
+<back>
+<div>
+<ab>《新女性》八月号登有“狂飙社广告”，说：“狂飙运动的开始远在二年之前……去年春天本社同人与思想界先驱者鲁迅及少数最进步的青年文学家合办《莽原》……兹为大规模地进行我们的工作起见于北京出版之《乌合》《未名》《莽原》《弦上》四种出版物外特在上海筹办《狂飙丛书》及一篇幅较大之刊物”云云。我在北京编辑《莽原》，《乌合丛书》，《未名丛刊》三种出版物，所用稿件，皆系以个人名义送来；对于狂飙运动，向不知是怎么一回事：如何运动，运动甚么。今忽混称“合办”，实出意外；不敢掠美，特此声明。又，前因有人不明真相，或则假借虚名，加我纸冠，已非一次，业经先有陈源在《现代评论》上，近有长虹在《狂飙》上，迭加嘲骂，而狂飙社一面又锡以第三顶“纸糊的假冠”，真是头少帽多，欺人害己，虽“世故的老人”，亦身心之交病矣。只得又来特此声明：我也不是“思想界先驱者”即英文Forerunner之译名?此等名号，乃是他人暗中所知，别有作用，本人事前并不知情，事后亦未尝高兴。倘见者因此受愚，概与本人无涉。</ab>
+</div>
+</back>
+  </text>
+</TEI>
+

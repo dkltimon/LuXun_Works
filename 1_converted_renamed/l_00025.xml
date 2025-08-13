@@ -9,11 +9,11 @@
         </author>
         <respStmt>
           <resp>Selection and preparation of texts and metadata.</resp>
-          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+          <name xml:id="KD" ref="https://orcid.org/0000-0001-7800-0682">Keli Du</name>
         </respStmt>
         <respStmt>
           <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
-          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+          <name xml:id="JCT" ref="https://orcid.org/0000-0002-1129-5604">José Calvo Tello</name>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
       </extent>
       <publicationStmt>
         <publisher></publisher>
-        <idno>novel_00025</idno>
+        <idno>l_00025</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
@@ -36,8 +36,8 @@
           <title level="m">彷徨</title>
           <author>
             <name>Lu Xun</name>
-            <idno type="wikidata">Q23114</idno>
-            <idno type="gnd">118574647</idno>
+            <idno type="wikidata" corresp="https://www.wikidata.org/wiki/Q23114">Q23114</idno>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/118574647">118574647</idno>
           </author>
           <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
           <date>1926</date>
@@ -52,7 +52,7 @@
       <textClass>
 
         <keywords>
-          <term>novel</term>
+          <term>short story</term>
         </keywords>
         
         <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
@@ -65,8 +65,8 @@
         </keywords>
         
         <keywords scheme="https://d-nb.info/gnd/">
+          <term ref="https://d-nb.info/gnd/4015553-5">Essay</term>
           
-          <term ref="https://d-nb.info/gnd/4050479-7">Roman</term>
         </keywords>
         
       </textClass>
@@ -112,7 +112,9 @@
 <p>况且还要饲阿随，饲油鸡，……都是非她不可的工作。</p>
 <p>我曾经忠告她：我不吃，倒也罢了；却万不可这样地操劳。她只看了我一眼，不开口，神色却似乎有点凄然；我也只好不开口。然而她还是这样地操劳。</p>
 <p>我所豫期的打击果然到来。双十节的前一晚，我呆坐着，她在洗碗。听到打门声，我去开门时，是局里的信差，交给我一张油印的纸条。我就有些料到了，到灯下去一看，果然，印着的就是：</p>
-奉
+</div>
+<div>
+<head>奉</head>
 <p>局长谕史涓生着毋庸到局办事</p>
 <p>秘书处启　十月九号</p>
 <p>这在会馆里时，我就早已料到了；那雪花膏便是局长的儿子的赌友，一定要去添些谣言，设法报告的。到现在才发生效验，已经要算是很晚的了。其实这在我不能算是一个打击，因为我早就决定，可以给别人去钞写，或者教读，或者虽然费力，也还可以译点书，况且《自由之友》的总编辑便是见过几次的熟人，两月前还通过信。但我的心却跳跃着。那么一个无畏的子君也变了色，尤其使我痛心；她近来似乎也较为怯弱了。</p>

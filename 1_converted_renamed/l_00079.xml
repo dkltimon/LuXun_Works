@@ -9,11 +9,11 @@
         </author>
         <respStmt>
           <resp>Selection and preparation of texts and metadata.</resp>
-          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+          <name xml:id="KD" ref="https://orcid.org/0000-0001-7800-0682">Keli Du</name>
         </respStmt>
         <respStmt>
           <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
-          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+          <name xml:id="JCT" ref="https://orcid.org/0000-0002-1129-5604">José Calvo Tello</name>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
       </extent>
       <publicationStmt>
         <publisher></publisher>
-        <idno>essay-zawen_00079</idno>
+        <idno>l_00079</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
@@ -36,8 +36,8 @@
           <title level="m">华盖集</title>
           <author>
             <name>Lu Xun</name>
-            <idno type="wikidata">Q23114</idno>
-            <idno type="gnd">118574647</idno>
+            <idno type="wikidata" corresp="https://www.wikidata.org/wiki/Q23114">Q23114</idno>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/118574647">118574647</idno>
           </author>
           <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
           <date>1925</date>
@@ -52,7 +52,7 @@
       <textClass>
 
         <keywords>
-          <term>essay-zawen</term>
+          <term>essay</term>
         </keywords>
         
         <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
@@ -87,9 +87,9 @@
 <p>现在我可以大胆地用“妇姑勃谿”这句古典了。但婆媳吵架，与西宾又何干呢？因为究竟是学校，所以总还是时常有信来，或是婆婆的，或是媳妇的。我的神经又不强，一闻打门而悔做教员者以此，而且也确有可悔的理由。</p>
 <p>这一年她们的家务简直没有完，媳妇儿们不佩服婆婆做校长了，婆婆可是不歇手。这是她的家庭，怎么肯放手呢？无足怪的。而且不但不放，还趁“五七”之际，在什么饭店请人吃饭之后，开除了六个学生自治会的职员，并且发表了那“须知学校犹家庭”的名论。</p>
 <p>这回抽出信纸来一看，是媳妇儿们的自治会所发的，略谓：</p>
- “旬余以来，校务停顿，百费待兴，若长此迁延，不特虚掷数百青年光阴，校务前途，亦岌岌不可终日。……”
+<p>“旬余以来，校务停顿，百费待兴，若长此迁延，不特虚掷数百青年光阴，校务前途，亦岌岌不可终日。……”</p>
 <p>底下是请教员开一个会，出来维持的意思的话，订定的时间是当日下午四点钟。</p>
- “去看一看罢。”我想。
+<p>“去看一看罢。”我想。</p>
 <p>这也是我的一种毛病，自己也疑心是自讨苦吃的根苗；明知道无论什么事，在中国是万不可轻易去“看一看”的，然而终于改不掉，所以谓之“病”。但是，究竟也颇熟于世故了，我想后，又立刻决定，四点太早，到了一定没有人，四点半去罢。</p>
 <p>四点半进了阴惨惨的校门，又走进教员休息室。出乎意料之外！除一个打盹似的校役以外，已有两位教员坐着了。一位是见过几面的；一位不认识，似乎说是姓汪，或姓王，我不大听明白，——其实也无须。</p>
 <p>我也和他们在一处坐下了。</p>

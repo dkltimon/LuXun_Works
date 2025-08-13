@@ -9,11 +9,11 @@
         </author>
         <respStmt>
           <resp>Selection and preparation of texts and metadata.</resp>
-          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+          <name xml:id="KD" ref="https://orcid.org/0000-0001-7800-0682">Keli Du</name>
         </respStmt>
         <respStmt>
           <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
-          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+          <name xml:id="JCT" ref="https://orcid.org/0000-0002-1129-5604">José Calvo Tello</name>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
       </extent>
       <publicationStmt>
         <publisher></publisher>
-        <idno>essay-zawen_00067</idno>
+        <idno>l_00067</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
@@ -36,8 +36,8 @@
           <title level="m">华盖集</title>
           <author>
             <name>Lu Xun</name>
-            <idno type="wikidata">Q23114</idno>
-            <idno type="gnd">118574647</idno>
+            <idno type="wikidata" corresp="https://www.wikidata.org/wiki/Q23114">Q23114</idno>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/118574647">118574647</idno>
           </author>
           <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
           <date>1925</date>
@@ -52,7 +52,7 @@
       <textClass>
 
         <keywords>
-          <term>essay-zawen</term>
+          <term>essay</term>
         </keywords>
         
         <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
@@ -88,9 +88,11 @@
 <p>中国书虽有劝人入世的话，也多是僵尸的乐观；外国书即使是颓唐和厌世的，但却是活人的颓唐和厌世。</p>
 <p>我以为要少——或者竟不——看中国书，多看外国书。</p>
 <p>少看中国书，其结果不过不能作文而已。但现在的青年最要紧的是“行”，不是“言”。只要是活人，不能作文算什么大不了的事。</p>
-                                   　　（二月十日。）
+<p>（二月十日。）</p>
 
-
+</div>
+</body>
+    
   </text>
 </TEI>
 

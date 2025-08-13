@@ -9,11 +9,11 @@
         </author>
         <respStmt>
           <resp>Selection and preparation of texts and metadata.</resp>
-          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+          <name xml:id="KD" ref="https://orcid.org/0000-0001-7800-0682">Keli Du</name>
         </respStmt>
         <respStmt>
           <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
-          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+          <name xml:id="JCT" ref="https://orcid.org/0000-0002-1129-5604">José Calvo Tello</name>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
       </extent>
       <publicationStmt>
         <publisher></publisher>
-        <idno>essay-zawen_00065</idno>
+        <idno>l_00065</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
@@ -36,8 +36,8 @@
           <title level="m">华盖集</title>
           <author>
             <name>Lu Xun</name>
-            <idno type="wikidata">Q23114</idno>
-            <idno type="gnd">118574647</idno>
+            <idno type="wikidata" corresp="https://www.wikidata.org/wiki/Q23114">Q23114</idno>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/118574647">118574647</idno>
           </author>
           <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
           <date>1925</date>
@@ -52,7 +52,7 @@
       <textClass>
 
         <keywords>
-          <term>essay-zawen</term>
+          <term>essay</term>
         </keywords>
         
         <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
@@ -79,15 +79,21 @@
 </front>
 <body>
 <div>
-                                        一
+</div>
+<div>
+<head>                                        一</head>
 <p>以摆脱传统思想的束缚而来主张男女平等的男人，却偏喜欢用轻靓艳丽字样来译外国女人的姓氏：加些草头，女旁，丝旁。不是“思黛儿”，就是“雪琳娜”。西洋和我们虽然远哉遥遥，但姓氏并无男女之别，却和中国一样的，——除掉斯拉夫民族在语尾上略有区别之外。所以如果我们周家的姑娘不另姓绸，陈府上的太太也不另姓蔯，则欧文的小姐正无须改作妪纹，对于托尔斯泰夫人也不必格外费心，特别写成妥嬭丝苔也。</p>
 <p>以摆脱传统思想的束缚而来介绍世界文学的文人，却偏喜欢使外国人姓中国姓：Gogol姓郭；Wilde姓王；D’Annunzio姓段，一姓唐；Holz姓何；Gorky姓高；Galsworthy也姓高，假使他谈到Gorky，大概是称他“吾家rky”的了。我真万料不到一本《百家姓》，到现在还有这般伟力。</p>
-　　                                      一月八日。
-                                        二
+<p>　　                                      一月八日。</p>
+</div>
+<div>
+<head>                                        二</head>
 <p>古时候，咱们学化学，在书上很看见许多“金”旁和非“金”旁的古怪字，据说是原质名目，偏旁是表明“金属”或“非金属”的，那一边大概是译音。但是，鏭，鎴，锡，错，矽，连化学先生也讲得很费力，总须附加道：“这回是熟悉的悉。这回是休息的息了。这回是常见的锡。”而学生们为要记得符号，仍须另外记住腊丁字。现在渐渐译起有机化学来，因此这类怪字就更多了，也更难了，几个字拼合起来，像贴在商人帐桌面前的将“黄金万两”拼成一个的怪字一样。中国的化学家多能兼做新仓颉。我想，倘若就用原文，省下造字的功夫来，一定于本职的化学上更其大有成绩，因为中国人的聪明是决不在白种人之下的。</p>
 <p>在北京常看见各样好地名：辟才胡同，乃兹府，丞相胡同，协资庙，高义伯胡同，贵人关。但探起底细来，据说原是劈柴胡同，奶子府，绳匠胡同，蝎子庙，狗尾巴胡同，鬼门关。字面虽然改了，涵义还依旧。这很使我失望；否则，我将鼓吹改奴隶二字为“弩理”，或是“努礼”，使大家可以永远放心打盹儿，不必再愁什么了。但好在似乎也并没有什么人愁着，爆竹毕毕剥剥地都祀过财神了。</p>
-　                                       　 二月十日。
-
+<p>　                                       　 二月十日。
+</p>
+</div>
+</body>
   </text>
 </TEI>
 

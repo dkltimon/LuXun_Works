@@ -9,11 +9,11 @@
         </author>
         <respStmt>
           <resp>Selection and preparation of texts and metadata.</resp>
-          <name xml:id="KD" ref="ORCID:0000-0001-7800-0682">Keli Du</name>
+          <name xml:id="KD" ref="https://orcid.org/0000-0001-7800-0682">Keli Du</name>
         </respStmt>
         <respStmt>
           <resp>Metadata enrichment and bulk-conversion to TEI.</resp>
-          <name xml:id="JCT" ref="ORCID:0000-0002-1129-5604">José Calvo Tello</name>
+          <name xml:id="JCT" ref="https://orcid.org/0000-0002-1129-5604">José Calvo Tello</name>
         </respStmt>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
       </extent>
       <publicationStmt>
         <publisher></publisher>
-        <idno>essay-zawen_00118</idno>
+        <idno>l_00118</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
@@ -36,8 +36,8 @@
           <title level="m">华盖集续编</title>
           <author>
             <name>Lu Xun</name>
-            <idno type="wikidata">Q23114</idno>
-            <idno type="gnd">118574647</idno>
+            <idno type="wikidata" corresp="https://www.wikidata.org/wiki/Q23114">Q23114</idno>
+            <idno type="gnd" corresp="https://d-nb.info/gnd/118574647">118574647</idno>
           </author>
           <ref target="https://en.wikisource.org/wiki/Author:Lu_Xun">WikiSource</ref>
           <date>1926</date>
@@ -52,7 +52,7 @@
       <textClass>
 
         <keywords>
-          <term>essay-zawen</term>
+          <term>essay</term>
         </keywords>
         
         <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
@@ -122,7 +122,7 @@
 <p>这好色的国民，便在寻求食物的原料时，也大概以所想像的性欲底效能为目的。从国外输入的特殊产物的最多数，就是认为含有这种效能的东西。……在大宴会中，许多菜单的最大部分，即是想像为含有或种特殊的强壮剂底性质的奇妙的原料所做。……”</p>
 <p>我自己想，我对于外国人的指摘本国的缺失，是不很发生反感的，但看到这里却不能不失笑。筵席上的中国菜诚然大抵浓厚，然而并非国民的常食；中国的阔人诚然很多淫昏，但还不至于将肴馔和壮阳药并合。“纣虽不善，不如是之甚也。”研究中国的外国人，想得太深，感得太敏，便常常得到这样——比“支那人”更有性底敏感——的结果。</p>
 <p>安冈氏又自己说——</p>
- “笋和支那人的关系，也与虾正相同。彼国人的嗜笋，可谓在日本人以上。虽然是可笑的话，也许是因为那挺然翘然的姿势，引起想像来的罢。”
+<p>“笋和支那人的关系，也与虾正相同。彼国人的嗜笋，可谓在日本人以上。虽然是可笑的话，也许是因为那挺然翘然的姿势，引起想像来的罢。”</p>
 <p>会稽至今多竹。竹，古人是很宝贵的，所以曾有“会稽竹箭”的话。然而宝贵它的原因是在可以做箭，用于战斗，并非因为它“挺然翘然”像男根。多竹，即多笋；因为多，那价钱就和北京的白菜差不多。我在故乡，就吃了十多年笋，现在回想，自省，无论如何，总是丝毫也寻不出吃笋时，爱它“挺然翘然”的思想的影子来。因为姿势而想像它的效能的东西是有一种的，就是肉苁蓉，然而那是药，不是菜。总之，笋虽然常见于南边的竹林中和食桌上，正如街头的电干和屋里的柱子一般，虽“挺然翘然”，和色欲的大小大概是没有什么关系的。</p>
 <p>然而洗刷了这一点，并不足证明中国人是正经的国民。要得结论，还很费周折罢。可是中国人偏不肯研究自己。安冈氏又说，“去今十余年前，有……称为《留东外史》这一种不知作者的小说，似乎是记事实，大概是以恶意地描写日本人的性底不道德为目的的。然而通读全篇，较之攻击日本人，倒是不识不知地将支那留学生的不品行，特地费了力招供出来的地方更其多，是滑稽的事。”这是真的，要证明中国人的不正经，倒在自以为正经地禁止男女同学，禁止模特儿这些事件上。</p>
 <p>我没有恭逢过奉陪“大宴会”的光荣，只是经历了几回中宴会，吃些燕窝鱼翅。现在回想，宴中宴后，倒也并不特别发生好色之心。但至今觉得奇怪的，是在燉，蒸，煨的烂熟的肴馔中间，夹着一盘活活的醉虾。据安冈氏说，虾也是与性欲有关系的；不但从他，我在中国也听到过这类话。然而我所以为奇怪的，是在这两极端的错杂，宛如文明烂熟的社会里，忽然分明现出茹毛饮血的蛮风来。而这蛮风，又并非将由蛮野进向文明，乃是已由文明落向蛮野，假如比前者为白纸，将由此开始写字，则后者便是涂满了字的黑纸罢。一面制礼作乐，尊孔读经，“四千年声明文物之邦”，真是火候恰到好处了，而一面又坦然地放火杀人，奸淫掳掠，做着虽蛮人对于同族也还不肯做的事……全个中国，就是这样的一席大宴会！</p>

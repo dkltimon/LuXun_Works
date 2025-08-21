@@ -24,7 +24,7 @@
       </extent>
       <publicationStmt>
         <publisher></publisher>
-        <idno>l_00001</idno>
+        <idno>l_l_00001</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
@@ -193,13 +193,10 @@
 <head>十三</head>
 <p>没有吃过人的孩子，或者还有？</p>
 <p>救救孩子……</p>
-</div>
-</body>
-<back>
-<div>
 <ab>一九一八年四月。</ab>
 </div>
-</back>
+</body>
+
   </text>
 </TEI>
 

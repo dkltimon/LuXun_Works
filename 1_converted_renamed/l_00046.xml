@@ -24,7 +24,7 @@
       </extent>
       <publicationStmt>
         <publisher></publisher>
-        <idno>l_00046</idno>
+        <idno>l_l_00046</idno>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
         </availability>
@@ -96,13 +96,10 @@
 <p>灰土，灰土，……</p>
 <p>………………</p>
 <p>灰土……</p>
-</div>
-</body>
-<back>
-<div>
 <ab>一九二四年九月二十四日。</ab>
 </div>
-</back>
+</body>
+
   </text>
 </TEI>
 
